@@ -21,8 +21,6 @@
           library as sort of a TV guide. Coding is something that I find myself
           learning suprisingly quickly, and I hope to improve my skills in the
           future.
-      </td>
-    </tr>
   </table>
 
   <hr>
@@ -43,7 +41,6 @@
         <th>Work</th>
       </tr>
     </thead>
-    <tbody>
       <tr>
         <td>2017-2020</td>
         <td>Studied <a href="https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu">Brazilian Jiu-Jitsu</a> at a beginner level</td>
