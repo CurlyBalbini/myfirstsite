@@ -14,7 +14,6 @@
         <h1>Danny Balbini</h1>
         <p><em>This is my attempt at a <strong>personal website</strong>.</em></p>
 
-        <p>
           I am putting together this website in order to learn about HTML and web
           development. My goal is to learn a skill that I believe will be valuable to
           know in the coming years. I have considered learning enough about html
@@ -22,7 +21,6 @@
           library as sort of a TV guide. Coding is something that I find myself
           learning suprisingly quickly, and I hope to improve my skills in the
           future.
-        </p>
       </td>
     </tr>
   </table>
