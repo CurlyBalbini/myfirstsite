@@ -1,17 +1,8 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-
-<hr>
-<a href="Contact.html">Contact Me</a>
-<a href="hobbies.html">My Hobbies</a>
-<a href="test.html">Test Page</a>
-<a href="inputs.html">Inputs</a>
-<a href="htmlchallenge8.html">Challenge #8</a>
-<hr>
-
 <head>
   <meta charset="utf-8">
-  <title>Danny's Personal Site</title>
+  Welcome to my first personal site.
 </head>
 
 <body>
@@ -130,13 +121,6 @@
     </tbody>
 
   </table>
-
-  <hr>
-  <a href="Contact.html">Contact Me</a>
-  <a href="hobbies.html">My Hobbies</a>
-  <a href="test.html">Test Page</a>
-  <a href="inputs.html">Inputs</a>
-
 </body>
 
 </html>
