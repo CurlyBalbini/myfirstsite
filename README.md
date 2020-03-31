@@ -59,6 +59,7 @@
         </td>
     </thead>
 
+    <thead>
         <tr>
         <td>
           <p>Hyper Text Markup Language</p>
@@ -112,7 +113,7 @@
           <p>Joke Making</p>
         </td>
         <td>❓</td>
-    </tbody>
+    </thead>
 
   </table>
 </body>
