@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-<head>
   <meta charset="utf-8">
-  Welcome to my first personal site.
+  
+<head>
+ 
 </head>
 
 <body>
