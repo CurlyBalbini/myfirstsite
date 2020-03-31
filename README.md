@@ -59,9 +59,7 @@
         </td>
     </thead>
 
-    <tbody>
-
-      <tr>
+        <tr>
         <td>
           <p>Hyper Text Markup Language</p>
         </td>
